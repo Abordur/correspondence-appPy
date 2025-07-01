@@ -65,4 +65,4 @@ jobs:
         with:
           app-name: 'Correspondence-Table'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85DFB4D4418D4CF784F5B7FF8646B0C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_094B2D3903BD4FC4AC115BA12F63E64C }}
